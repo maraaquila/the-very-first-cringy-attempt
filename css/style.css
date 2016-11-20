@@ -1,0 +1,23 @@
+body{background-color: #c3e4e3;}
+
+/*this is comment*/
+
+h1, li {color:#c3e4e3;}
+h1, p {background-color: grey;}
+
+.big_text{
+	font-size: 42px;
+	font-weight: bolder
+	letter-spacing: 10px; 
+	font-family: "Helvetica";
+	background-color: white;
+}
+.first{background-color: black;
+}
+.second{background:white;}
+
+.centered{
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+}
